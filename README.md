@@ -1,156 +1,146 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Sravanth Kumar Kuricheti
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sravanth%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 
-### Python Full Stack Developer | AI & Machine Learning Enthusiast | Software Engineer / Developer
-
-**Building Intelligent Applications | Exploring Generative AI | Creating Real-World Solutions**
+<a href="https://github.com/Sravanth-Kumar-Kuricheti">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Generative+AI+%7C+RAG+%7C+LLMs;Building+Intelligent+Applications"/>
+</a>
 
 <p>
-  <a href="https://github.com/Sravanth-Kumar-Kuricheti">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sra1thkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://github.com/Sravanth-Kumar-Kuricheti">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/sra1thkumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:sravanthkumarkuricheti@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Sravanth-Kumar-Kuricheti&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Sravanth-Kumar-Kuricheti&style=flat-square&color=blue" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-- 🎓 B.Tech Graduate in Artificial Intelligence & Data Science.
-- 🏫 PACE Institute of Technology & Sciences, Ongole.
-- 📊 CGPA: 8.42 / 10.
-- 💻 Passionate about Python Full Stack Development.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI and LLMs.
-- 🚀 Building AI-powered applications, intelligent automation systems and developer tools.
-- 🌱 Continuously learning Python, DSA, Backend Development and AI Engineering.
-- 📍 Hyderabad, Telangana, India.
+Hello! I'm **Sravanth Kumar Kuricheti**, an Artificial Intelligence and Data Science graduate interested in building intelligent software applications.
+
+- 🎓 B.Tech – Artificial Intelligence & Data Science
+- 🏫 PACE Institute of Technology & Sciences, Ongole
+- 💻 Python Full Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI, RAG, LLMs and AI Agents
+- 🚀 Building real-world AI-powered applications
+- 📍 Hyderabad, India
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ TECHNICAL SKILLS
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
 </p>
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 </p>
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs,express"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres"/>
 </p>
 
-### AI / Machine Learning / Generative AI
+### AI / ML / Generative AI
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI Agents
-- TensorFlow
-- Scikit-learn
-- Pandas and NumPy
-- Groq API
-- Hugging Face
-- Sentence Transformers
-- Qdrant Vector Database
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision`
+
+`Generative AI` `RAG` `LLMs` `Prompt Engineering`
+
+`TensorFlow` `Scikit-learn` `Pandas` `NumPy`
+
+`Groq API` `Hugging Face` `Sentence Transformers`
+
+`Qdrant` `Google BigQuery`
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,streamlit"/>
 </p>
 
-- Streamlit
-- REST APIs
-- Google BigQuery
-- Plotly
-- VS Code
-- Git and GitHub
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🛰️ 1. RepoPilot AI – AI Code Analyzer
+
+AI-powered developer intelligence platform designed to analyze code and provide intelligent repository insights.
+
+**Tech Stack:** Python, AI, LLM APIs, GitHub API.
+
+🔗 [GitHub Repository](https://github.com/Sravanth-Kumar-Kuricheti/AI-Code-Analyser)
+
+### 📚 2. Smart PDF Knowledge Retrieval System
+
+A Retrieval-Augmented Generation system that allows users to upload PDF documents and ask questions using AI-powered semantic search.
+
+**Tech Stack:** Python, FastAPI, Streamlit, Qdrant, Sentence Transformers, Groq API.
+
+🔗 [GitHub Repository](https://github.com/Sra1thkumar/Smart-PDF-Knowledge-Retrieval-System)
+
+### 🤖 3. AI-Powered Conversational Chatbot
+
+A full-stack AI chatbot featuring conversational responses, chat history, speech capabilities and AI integrations.
+
+**Tech Stack:** Python, React.js, FastAPI, MongoDB, Groq API.
+
+### 🚗 4. Driver Drowsiness Detection
+
+Real-time driver monitoring system using deep learning and computer vision to detect fatigue and generate alerts.
+
+**Tech Stack:** Python, OpenCV, TensorFlow, CNN, MediaPipe.
+
+### 🧠 5. Smart Memory Vault
+
+AI-powered multimodal knowledge management and personal information retrieval application.
+
+**Tech Stack:** Python, Streamlit, SQLAlchemy, PostgreSQL, NLP, OCR.
+
+### 💬 6. MERN Chatbot & Task Manager
+
+Full-stack chatbot and task management application integrating AI-powered conversations and task management.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Groq API.
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. 🛰️ RepoPilot AI – AI Code Analyzer
-
-An AI-powered developer intelligence platform designed to analyze source code and provide intelligent code insights.
-
-**Technologies:** Python, AI, LLM APIs, GitHub API.
-
-🔗 [View Project on GitHub](https://github.com/Sravanth-Kumar-Kuricheti/AI-Code-Analyser)
-
-### 2. 📚 Smart PDF Knowledge Retrieval System
-
-A Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask questions using AI-powered semantic search.
-
-**Technologies:** Python, FastAPI, Streamlit, Qdrant, Sentence Transformers, Groq API.
-
-🔗 [View Project on GitHub](https://github.com/Sra1thkumar/Smart-PDF-Knowledge-Retrieval-System)
-
-### 3. 🤖 AI-Powered Conversational Chatbot
-
-A full-stack AI chatbot with real-time conversations, chat history, speech capabilities and AI integrations.
-
-**Technologies:** Python, React.js, FastAPI, MongoDB, Groq API.
-
-### 4. 🚗 Driver Drowsiness Detection System
-
-A real-time driver monitoring system using deep learning and computer vision to detect driver fatigue and provide audio alerts.
-
-**Technologies:** Python, OpenCV, TensorFlow, CNN, MediaPipe, EAR and MAR.
-
-### 5. 🧠 Smart Memory Vault
-
-An AI-powered multimodal knowledge management and life-log application for storing, organizing, summarizing and retrieving information.
-
-**Technologies:** Python, Streamlit, SQLAlchemy, PostgreSQL, NLP, OCR, Sentence Transformers.
-
-### 6. 💬 MERN Chatbot & Task Manager
-
-A full-stack chatbot and task management application integrating AI-powered conversations and task management functionality.
-
-**Technologies:** MongoDB, Express.js, React.js, Node.js, Groq API.
-
----
-
-## 🏆 Certifications & Professional Credentials
+## 🏆 CERTIFICATIONS
 
 ### Artificial Intelligence & Generative AI
 
-- Artificial Intelligence Fundamentals – IBM SkillsBuild (2025)
-- Introduction to Large Language Models – Google Cloud Skills Boost (2025)
-- Prompt Design in Vertex AI – Google Cloud Skills Boost (2025)
-- Google Generative AI Certificate / Training
+- Artificial Intelligence Fundamentals – IBM SkillsBuild
+- Introduction to Large Language Models – Google Cloud Skills Boost
+- Prompt Design in Vertex AI – Google Cloud Skills Boost
+- Google Generative AI Training
 
-### Programming & Software Development
+### Software Development
 
-- Python Essentials – Cisco Networking Academy (if listed on your certificate)
-- Full Stack Web Development – freeCodeCamp (2025)
+- Full Stack Web Development – freeCodeCamp
 - Web Full Stack Development – AICTE / EduSkills
 
 ### Data Analytics
@@ -160,87 +150,65 @@ A full-stack chatbot and task management application integrating AI-powered conv
 
 ---
 
-## 🎓 Internships & Virtual Internship Programs
+## 🎓 INTERNSHIPS & VIRTUAL INTERNSHIPS
 
-1. **Artificial Intelligence & Machine Learning Internship**
-   - Edunet Foundation | IBM SkillsBuild
-   - June 2025 – July 2025
-
-2. **Data Analytics Process Automation Internship**
-   - AICTE – EduSkills | Alteryx
-   - 10-week virtual internship
-
-3. **Web Full Stack Developer Virtual Internship**
-   - AICTE – EduSkills Academy
-   - January 2025 – March 2025
-
-4. **AWS Academy Data Engineering Virtual Internship**
-   - AICTE – EduSkills | AWS Academy
-   - 10-week virtual internship
-
-5. **Data Science & AI/ML Modeling Internship**
-   - 42 Learn
-   - May 2024 – July 2024
-
-6. **Google Generative AI Virtual Internship**
-   - Google Cloud | AICTE – EduSkills
+| Internship | Organization |
+|---|---|
+| Artificial Intelligence & Machine Learning | Edunet Foundation / IBM SkillsBuild |
+| Data Analytics Process Automation | AICTE / EduSkills / Alteryx |
+| Web Full Stack Developer | AICTE / EduSkills |
+| AWS Academy Data Engineering | AWS Academy / AICTE EduSkills |
+| Data Science & AI/ML Modeling | 42 Learn |
+| Generative AI Virtual Internship | Google Cloud / AICTE EduSkills |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sravanth-Kumar-Kuricheti&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=Sravanth-Kumar-Kuricheti&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth-Kumar-Kuricheti&layout=compact&theme=github_dark&hide_border=true" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sravanth-Kumar-Kuricheti&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Sravanth-Kumar-Kuricheti&theme=github-dark-blue&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Sravanth-Kumar-Kuricheti&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravanth-Kumar-Kuricheti&theme=github-compact&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravanth-Kumar-Kuricheti&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Sravanth-Kumar-Kuricheti">
-<img src="https://img.shields.io/badge/GitHub-Sravanth--Kumar--Kuricheti-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sra1thkumar/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://leetcode.com/u/Sravanth-Kumar-Kuricheti/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sravanthkumarkuricheti@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
@@ -249,10 +217,10 @@ A full-stack chatbot and task management application integrating AI-powered conv
 
 <div align="center">
 
-### 💡 Building Today, Innovating Tomorrow.
+### 💡 BUILDING TODAY, INNOVATING TOMORROW.
 
-**Thanks for visiting my GitHub profile!**
+⭐ Thanks for visiting my GitHub profile!
 
-⭐ Feel free to explore my repositories and connect with me.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
 
 </div>
