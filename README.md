@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Sravanth Kumar Kuricheti
 
-### Python Full Stack Developer | AI & Machine Learning Enthusiast
+### Python Full Stack Developer | AI & Machine Learning Enthusiast | Software Engineer / Developer
 
 **Building Intelligent Applications | Exploring Generative AI | Creating Real-World Solutions**
 
