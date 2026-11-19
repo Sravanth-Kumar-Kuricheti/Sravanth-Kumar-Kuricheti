@@ -7,8 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Python+Full+Stack+Developer;Backend+%26+API+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Solutions"/>
 </a>
 
-<br/>
-
+<p>
 <a href="https://github.com/Sravanth-Kumar-Kuricheti">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -18,8 +17,7 @@
 <a href="mailto:sravanthkumarkuricheti@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Sravanth-Kumar-Kuricheti&label=Profile%20Views&color=36BCF7&style=flat-square"/>
 
@@ -27,85 +25,34 @@
 
 ---
 
-<div align="center">
+## 👨‍💻 ABOUT ME
 
-## 👨‍💻 ENGINEERING IDENTITY
+Hello! I'm **Sravanth Kumar Kuricheti**, an Artificial Intelligence and Data Science graduate passionate about software engineering, backend development and building intelligent applications.
 
-### Turning Ideas Into Intelligent Software Solutions
+I enjoy designing, developing and improving software solutions by combining strong programming fundamentals with modern technologies.
 
-</div>
+- 🎓 B.Tech in Artificial Intelligence & Data Science.
+- 🏫 PACE Institute of Technology & Sciences, Ongole.
+- 📊 CGPA: 8.42 / 10.
+- 💻 Aspiring Software Engineer / Software Developer.
+- 🐍 Python Full Stack & Backend Development.
+- 🌐 Experience with frontend, backend, databases and REST APIs.
+- 🤖 Interested in AI, Machine Learning, Generative AI and LLM applications.
+- 🧠 Practicing Data Structures, Algorithms and Problem Solving.
+- 🚀 Focused on developing practical, scalable and user-oriented applications.
+- 📍 Hyderabad, Telangana, India.
 
-Hello! I'm **Sravanth Kumar Kuricheti**, an Artificial Intelligence and Data Science graduate passionate about Software Engineering, Python Development, Backend Engineering and Artificial Intelligence.
+### 🎯 Professional Interests
 
-I enjoy transforming complex problems into practical software solutions through programming, logical thinking, application architecture and continuous experimentation.
+`Software Engineering` `Backend Development` `Python Development`
 
-My development interests cover the complete software development lifecycle — from understanding requirements and designing application components to building APIs, integrating databases and developing user-friendly interfaces.
+`Full Stack Development` `API Development` `Database Engineering`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Academic Background
-
-- B.Tech – Artificial Intelligence & Data Science
-- PACE Institute of Technology & Sciences
-- Ongole, Andhra Pradesh
-- CGPA: 8.42 / 10
-- Graduation: 2026
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Professional Direction
-
-- Aspiring Software Engineer
-- Software Developer
-- Python Full Stack Developer
-- Backend Developer
-- AI / ML Application Developer
-- Problem Solver
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Engineering Interests
-
-- Software Architecture
-- Backend Development
-- REST API Development
-- Database Engineering
-- Data Structures & Algorithms
-- Application Development
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Intelligent Technologies
-
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents
-
-</td>
-</tr>
-</table>
-
-📍 Hyderabad, Telangana, India
+`Artificial Intelligence` `Machine Learning` `Generative AI`
 
 ---
 
-<div align="center">
-
-## 🛠️ TECH STACK & SKILLS
-
-*The programming languages, frameworks and tools I work with.*
-
-</div>
+## 💻 TECHNICAL SKILLS
 
 <table>
 <tr>
@@ -114,9 +61,9 @@ My development interests cover the complete software development lifecycle — f
 ### 👨‍💻 Programming Languages
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### 🌐 Frontend Development
@@ -126,23 +73,29 @@ My development interests cover the complete software development lifecycle — f
 <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
+</td>
+<td width="50%" valign="top">
+
 ### ⚙️ Backend Development
 
 <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 ### 🗄️ Databases
 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI & Machine Learning
 
@@ -154,7 +107,10 @@ My development interests cover the complete software development lifecycle — f
 <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-### 🧠 Generative AI
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Generative AI & LLMs
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge"/>
@@ -162,13 +118,15 @@ My development interests cover the complete software development lifecycle — f
 <img src="https://img.shields.io/badge/GROQ_API-F55036?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/QDRANT-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SENTENCE_TRANSFORMERS-2563EB?style=for-the-badge"/>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🧰 Developer Tools
+### 🔧 Developer Tools
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -190,40 +148,22 @@ My development interests cover the complete software development lifecycle — f
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## 🧩 COMPUTER SCIENCE & ENGINEERING FUNDAMENTALS
-
-</div>
+### 🧩 Computer Science Fundamentals
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Programming & Logic
-
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
-- Searching Techniques
-- Sorting Techniques
-- Time & Space Complexity
-- Problem Solving
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms (DSA)
+- Database Management Systems (DBMS)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Software & Systems
-
-- Database Management Systems
 - Operating Systems
-- Relational Database Concepts
-- API Architecture
-- CRUD Operations
-- Debugging Fundamentals
-- Modular Programming
+- Problem Solving
+- Software Development Fundamentals
 
 </td>
 </tr>
@@ -231,118 +171,70 @@ My development interests cover the complete software development lifecycle — f
 
 ---
 
-<div align="center">
-
 ## 🚀 FEATURED SOFTWARE ENGINEERING PROJECTS
-
-### Building applications. Solving problems. Creating impact.
-
-</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Smart Memory Vault
+### 🛰️ RepoPilot AI – AI Code Analyzer
 
-**AI-Powered Multimodal Knowledge Management System**
+**Software Engineering | Developer Tools | Generative AI**
 
-An intelligent platform designed to process, organize and retrieve information from documents and multimedia sources.
-
-**Key Features**
-
-- Document and multimedia processing
-- OCR-based text extraction
-- AI-powered summarization
-- Knowledge categorization
-- Information retrieval
-- Interactive analytics
-
-**Technology Stack**
-
-`Python` `Streamlit` `SQLAlchemy` `PostgreSQL` `NLP` `OCR` `Plotly`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 RepoPilot AI
-
-**AI-Powered Developer Intelligence Platform**
-
-A developer-focused intelligence platform designed to analyze code and provide useful insights into software repositories.
+An AI-powered developer intelligence platform designed to analyze code and provide intelligent insights into software repositories.
 
 **Key Features**
 
 - Source code analysis
 - Code quality insights
-- Complexity analysis
+- Complexity measurement
 - Security issue analysis
 - AI-assisted code understanding
-- Developer productivity
 
 **Technology Stack**
 
-`Python` `AI` `LLM APIs` `GitHub API`
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_API-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/GITHUB_API-181717?style=flat-square&logo=github&logoColor=white"/>
 
 <br/>
 
 <a href="https://github.com/Sravanth-Kumar-Kuricheti/AI-Code-Analyser">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 Smart PDF Knowledge Retrieval System
 
-**AI-Powered Document Question Answering**
+**Backend Engineering | AI | RAG**
 
-A Retrieval-Augmented Generation system that allows users to upload PDFs and ask questions using semantic search and contextual AI responses.
+An intelligent document question-answering system that extracts PDF content, performs semantic search and generates contextual answers using Retrieval-Augmented Generation.
 
 **Key Features**
 
 - PDF text extraction
 - Document chunking
 - Embedding generation
-- Vector database storage
 - Semantic search
+- Vector database integration
 - Context-aware responses
 
 **Technology Stack**
 
-`Python` `FastAPI` `Streamlit` `Qdrant` `Groq API` `Sentence Transformers`
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/QDRANT-DC244C?style=flat-square"/>
+<img src="https://img.shields.io/badge/GROQ_API-F55036?style=flat-square"/>
 
 <br/>
 
 <a href="https://github.com/Sra1thkumar/Smart-PDF-Knowledge-Retrieval-System">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Conversational Chatbot
-
-**Full Stack AI Conversation Platform**
-
-A conversational AI application combining a modern chat interface with backend services and AI-powered responses.
-
-**Key Features**
-
-- Real-time AI conversations
-- Chat history management
-- Speech-to-text
-- Text-to-speech
-- AI response generation
-- Responsive interface
-- API integration
-
-**Technology Stack**
-
-`Python` `React.js` `FastAPI` `MongoDB` `Groq API`
 
 </td>
 </tr>
@@ -350,414 +242,299 @@ A conversational AI application combining a modern chat interface with backend s
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Driver Drowsiness Detection
+### 🤖 AI-Powered Conversational Chatbot
 
-**Deep Learning & Computer Vision Application**
+**Full Stack Development | AI Integration**
 
-A real-time driver monitoring system designed to detect drowsiness using facial landmark detection and deep learning.
+A full-stack conversational chatbot with real-time AI responses, chat history, speech functionality and reusable frontend components.
+
+**Key Features**
+
+- Real-time AI responses
+- Chat history management
+- Speech-to-text
+- Text-to-speech
+- Responsive chat interface
+- API integration
+
+**Technology Stack**
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GROQ_API-F55036?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Driver Drowsiness Detection System
+
+**Machine Learning | Computer Vision**
+
+A real-time driver monitoring application that identifies fatigue using facial landmark detection, CNN-based classification and eye/mouth aspect ratio analysis.
 
 **Key Features**
 
 - Facial landmark detection
 - Eye Aspect Ratio (EAR)
 - Mouth Aspect Ratio (MAR)
-- CNN-based detection
+- CNN-based classification
 - Real-time monitoring
-- Audio alert mechanism
+- Audio alerts
 
 **Technology Stack**
 
-`Python` `OpenCV` `TensorFlow` `CNN` `MediaPipe`
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/MEDIAPIPE-0097A7?style=flat-square"/>
 
-**Reported accuracy:** Approximately 98.7%.
+**Reported model accuracy:** Approximately 98.7%.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Smart Memory Vault
+
+**Python Development | AI | Data Management**
+
+A multimodal knowledge management application for storing, organizing, summarizing and retrieving personal information from documents and other sources.
+
+**Key Features**
+
+- Document and multimedia processing
+- OCR text extraction
+- Information categorization
+- AI summarization
+- Knowledge retrieval
+- Data visualization
+
+**Technology Stack**
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 MERN Chatbot & Task Manager
 
-**Full Stack Web Application**
+**Full Stack Software Development**
 
-A full-stack application integrating AI-powered conversations with task management functionality.
+A full-stack chatbot and task management application combining conversational AI with task management features.
 
 **Key Features**
 
-- Interactive chatbot
-- Task management
+- AI-powered conversations
+- Task creation and management
 - CRUD functionality
-- Frontend and backend integration
 - Database persistence
-- API communication
+- Frontend and backend integration
+- REST API communication
 
 **Technology Stack**
 
-`MongoDB` `Express.js` `React.js` `Node.js` `Groq API`
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/GROQ_API-F55036?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
 ---
-
-<div align="center">
-
-## ⚙️ ENGINEERING WORKFLOW
-
-*How I approach application development.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01. Understand
-
-- Identify requirements
-- Understand the problem
-- Break down functionality
-- Define objectives
-
-### 02. Design
-
-- Plan application architecture
-- Design database structures
-- Define API endpoints
-- Organize modules
-
-### 03. Develop
-
-- Write modular code
-- Build application components
-- Implement backend services
-- Integrate databases
-
-</td>
-<td width="50%" valign="top">
-
-### 04. Validate
-
-- Test application functionality
-- Debug errors
-- Validate API responses
-- Verify database operations
-
-### 05. Deploy
-
-- Configure environment
-- Prepare deployment
-- Connect frontend and backend
-- Deploy applications
-
-### 06. Improve
-
-- Refactor code
-- Optimize performance
-- Improve maintainability
-- Explore new technologies
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 🏆 CERTIFICATIONS & PROFESSIONAL CREDENTIALS
 
-</div>
+### Artificial Intelligence & Generative AI
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Artificial Intelligence Fundamentals – IBM SkillsBuild (2025)
+- Introduction to Large Language Models – Google Cloud Skills Boost (2025)
+- Prompt Design in Vertex AI – Google Cloud Skills Boost (2025)
+- Google Generative AI Training
 
-### 🤖 Artificial Intelligence & Generative AI
+### Software Development
 
-**01.** Artificial Intelligence Fundamentals
+- Full Stack Web Development – freeCodeCamp (2025)
+- Web Full Stack Development – AICTE / EduSkills
 
-IBM SkillsBuild · 2025
+### Data Analytics
 
-**02.** Introduction to Large Language Models
-
-Google Cloud Skills Boost · 2025
-
-**03.** Prompt Design in Vertex AI
-
-Google Cloud Skills Boost · 2025
-
-**04.** Google Generative AI Training
-
-Google · Verify exact credential title
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Software Development
-
-**05.** Full Stack Web Development
-
-freeCodeCamp · 2025
-
-**06.** Web Full Stack Development
-
-AICTE / EduSkills
-
-### 📊 Data Analytics
-
-**07.** Google Data Analytics Professional Certificate
-
-Google / Coursera
-
-**08.** Data Analytics Essentials
-
-Cisco Networking Academy
-
-</td>
-</tr>
-</table>
+- Google Data Analytics Professional Certificate
+- Data Analytics Essentials – Cisco Networking Academy
 
 ---
 
-<div align="center">
-
-## 🎓 INTERNSHIPS & VIRTUAL INTERNSHIP EXPERIENCE
-
-</div>
+## 🎓 INTERNSHIPS & PROFESSIONAL TRAINING
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning Intern
+### 🤖 Artificial Intelligence & Machine Learning
 
-**Edunet Foundation | IBM SkillsBuild**
+**Organization:** Edunet Foundation / IBM SkillsBuild
 
-June 2025 – July 2025
+**Duration:** June 2025 – July 2025
 
-- Python-based ML development
-- Data preprocessing
-- Feature engineering
-- Model training and evaluation
-- Predictive analytics
+- Python-based machine learning workflows
+- Data preprocessing and feature engineering
+- Machine learning fundamentals
+- AI application development
 
-### 🌐 Web Full Stack Developer Intern
+</td>
+<td width="50%" valign="top">
 
-**AICTE | EduSkills Academy**
+### 🌐 Web Full Stack Development
 
-January 2025 – March 2025
+**Organization:** AICTE / EduSkills
 
-- Responsive web application development
-- React.js and JavaScript
-- Node.js and Express.js
+**Duration:** January 2025 – March 2025
+
+- Full stack development fundamentals
+- Frontend and backend integration
+- React and JavaScript
 - REST API development
-- MongoDB integration
+- Database integration
 
-### 📊 Data Science & AI/ML Modeling Intern
+</td>
+</tr>
 
-**42 Learn**
+<tr>
+<td width="50%" valign="top">
 
-May 2024 – July 2024
+### 📊 Data Science & AI/ML Modeling
 
-- Data science fundamentals
+**Organization:** 42 Learn
+
+**Duration:** May 2024 – July 2024
+
 - Predictive modelling
+- Data science fundamentals
 - Machine learning concepts
 - Google BigQuery exposure
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ AWS Academy Data Engineering Intern
+### ☁️ AWS Academy Data Engineering
 
-**AWS Academy | AICTE–EduSkills**
+**Organization:** AWS Academy / AICTE–EduSkills
 
-April – June 2024
+**Duration:** April 2024 – June 2024
 
 - Data engineering fundamentals
-- Cloud learning
-- Data workflow concepts
+- Cloud-based data concepts
+- Data processing workflows
+- AWS Academy learning
 
-### 📈 Data Analytics Process Automation Intern
+</td>
+</tr>
 
-**Alteryx | AICTE–EduSkills**
+<tr>
+<td width="50%" valign="top">
 
-10-week virtual internship
+### 📈 Data Analytics Process Automation
+
+**Organization:** Alteryx / AICTE–EduSkills
+
+**Duration:** 10-week virtual internship
 
 - Analytics process automation
-- Workflow concepts
+- Workflow development concepts
 - Data processing
+- Analytical problem solving
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 Generative AI Virtual Internship
 
-**Google Cloud | AICTE–EduSkills**
+**Organization:** Google Cloud / AICTE–EduSkills
+
+**Duration:** Verify certificate
 
 - Generative AI fundamentals
-- LLM concepts
-- Prompt-based applications
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📚 CONTINUOUS LEARNING & GROWTH
-
-### Technology is constantly evolving. So am I.
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- Advanced Python
-- Object-Oriented Programming
-- Data Structures and Algorithms
-- Software Design Principles
-- Backend Engineering
-- RESTful API Development
-- SQL and Database Design
-- System Design Fundamentals
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Emerging Technologies
-
-- Generative AI
-- Retrieval-Augmented Generation
 - Large Language Models
-- AI Agent Development
-- Vector Databases
-- Cloud Computing
-- Automation
-- Intelligent Application Development
+- Prompt-based AI applications
+- AI development concepts
 
 </td>
 </tr>
 </table>
 
 ---
-
-<div align="center">
-
-## 🌟 ACHIEVEMENTS & DEVELOPMENT HIGHLIGHTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏅 Professional Highlights
-
-- Completed six AICTE–EduSkills internship cohorts.
-- Participated in a college-level hackathon.
-- Built academic and independent software projects.
-- Explored software and AI development domains.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Development Goals
-
-- Strengthen software engineering fundamentals.
-- Improve DSA and problem-solving ability.
-- Build scalable backend applications.
-- Develop practical AI-powered solutions.
-- Contribute to meaningful software projects.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 📊 GITHUB STATISTICS
-
-### My development activity and repository insights.
-
-</div>
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sravanth-Kumar-Kuricheti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth-Kumar-Kuricheti&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth-Kumar-Kuricheti&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🔥 CONTRIBUTION STREAK
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Sravanth-Kumar-Kuricheti&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Sravanth-Kumar-Kuricheti&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 📈 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravanth-Kumar-Kuricheti&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Software%20Development%20Activity" width="100%"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sravanth-Kumar-Kuricheti&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🏆 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sravanth-Kumar-Kuricheti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
----
+## 🌐 CONNECT WITH ME
 
 <div align="center">
-
-## 🌐 LET'S CONNECT
-
-### Open to learning, collaboration and software engineering opportunities.
 
 <a href="https://github.com/Sravanth-Kumar-Kuricheti">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sra1thkumar/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sravanthkumarkuricheti@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<br/><br/>
-
-**Location:** Hyderabad, Telangana, India
-
-**Professional Interests:** Software Engineering · Python Development · Backend Systems · AI Engineering
+</div>
 
 ---
 
+<div align="center">
+
 ### 💡 ENGINEERING SOLUTIONS. BUILDING THE FUTURE.
 
-**Think logically. Build intelligently. Engineer continuously.**
+**Software Development | Python | AI | Problem Solving**
 
-⭐ Thank you for exploring my GitHub portfolio!
+⭐ Thank you for visiting my GitHub profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36BCF7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:36BCF7&height=110&section=footer"/>
 
 </div>
