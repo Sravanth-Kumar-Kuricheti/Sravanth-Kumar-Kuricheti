@@ -292,36 +292,45 @@ A real-time driver monitoring application that identifies fatigue using facial l
 
 </td>
 
+
+<tr>
 <td width="50%" valign="top">
 
-<h3>💡 Engineering Focus</h3>
+<h3>📊 HR Analytics Dashboard</h3>
 
-<strong>Software Development | Problem Solving | Innovation</strong>
+<strong>Data Analytics | SQL | Business Intelligence</strong>
 
-My development approach focuses on building practical applications using programming fundamentals, software engineering practices and modern technologies.
+An interactive HR analytics project that processes employee data using MySQL and SQL to analyze workforce trends and visualize meaningful HR insights through Tableau dashboards.
 
-<strong>Core Engineering Areas</strong>
+<strong>Key Features</strong>
 
 <ul>
-<li>Python application development</li>
-<li>Backend architecture and API integration</li>
-<li>Database design and management</li>
-<li>AI-powered application development</li>
-<li>Code analysis and automation</li>
-<li>Intelligent user experiences</li>
+<li>Employee attrition analysis</li>
+<li>Job satisfaction analysis</li>
+<li>Employee performance analysis</li>
+<li>Salary and income distribution</li>
+<li>Workforce demographic analysis</li>
+<li>SQL-based data analysis</li>
+<li>Interactive Tableau visualizations</li>
+<li>Employee data management</li>
 </ul>
 
-<strong>Primary Technologies</strong>
+<strong>Technology Stack</strong>
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-7C3AED"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analytics-2563EB"/>
+
+<br/>
+
+<a href="https://github.com/Sravanth-Kumar-Kuricheti/HR-Anaytics-Dashboard">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
-</table>
 
 ---
 
